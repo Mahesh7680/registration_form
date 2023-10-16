@@ -1,0 +1,26 @@
+.main-login-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+  width: 220px;
+  padding: 15px;
+  box-shadow: 0px 0px 15px gray;
+  margin: 20px;
+}
+h1 {
+  color: #ff0b37;
+}
+button {
+  background-color: #ff0b37;
+  border: 0;
+  border-radius: 5px;
+  padding: 3px;
+}
+.center-elements {
+  text-align: center;
+}
